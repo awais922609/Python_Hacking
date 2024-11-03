@@ -28,9 +28,9 @@ Here's a breakdown of the main files included in this repository:
 
 #### Cryptography
 
-ceaserCipher.py: A simple Caesar cipher for encrypting and decrypting text.
+ceaser_cipher.py: A simple Caesar cipher for encrypting and decrypting text.
 
-#### AdvanceCipher.py: An advanced implementation of encryption techniques.
+advance_cipher.py: An advanced implementation of encryption techniques.
 
 #### Web Scraping & Parsing
 
@@ -38,21 +38,21 @@ web_scraper1.py / web_scraper2.py: Scripts for web data extraction.
 
 https_scraper.py: A scraper handling HTTPS data.
 
-updated scraper.py: An enhanced version of the scraping script.
+updated _craper.py: An enhanced version of the scraping script.
 
-Scraping json data assignment.py: Script focusing on scraping and parsing JSON data.
+Scraping_json_data_assignment.py: Script focusing on scraping and parsing JSON data.
 
 xml_parsing.py / xml parsing.py: Parsing XML data for structured information.
 
-opengeo Scraping.py / opengeo assignment.py: Specialized scripts for scraping OpenGeo data.
+opengeo_craping.py / opengeo assignment.py: Specialized scripts for scraping OpenGeo data.
 
-http-parsing.py: HTTP parsing script for response analysis.
+http_parsing.py: HTTP parsing script for response analysis.
 
 #### Data Handling
 
-fileHandling.py: Demonstrates file reading and writing operations.
+file_handling.py: Demonstrates file reading and writing operations.
 
-ReadingJson.py: A script for reading JSON files and processing data.
+reading_json.py: A script for reading JSON files and processing data.
 
 security_log.csv, security_log.json, security_log.txt: Sample log files used for testing scripts and data handling.
 
@@ -66,11 +66,11 @@ Inheritance.py: Demonstrates object-oriented programming with inheritance.
 
 class.py: Basic class structure and object instantiation.
 
-Graded_quiz1.py / Graded_Quiz2.py: Example scripts likely related to quiz implementations.
+graded_quiz1.py / Graded_Quiz2.py: Example scripts likely related to quiz implementations.
 
 panda.py: Sample usage of the pandas library for data analysis.
 
-url-parser.py: Script for parsing and handling URLs.
+url_parser.py: Script for parsing and handling URLs.
 
 #### Installation
 
