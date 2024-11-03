@@ -1,0 +1,4 @@
+timestamp,username,ip_address,status
+2024-10-29 08:15:00,jdoe,192.168.1.10,success
+2024-10-29 08:17:45,asmith,192.168.1.11,failed
+2024-10-29 08:20:10,jdoe,192.168.1.10,failed
