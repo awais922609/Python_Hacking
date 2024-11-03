@@ -78,7 +78,8 @@ To run these scripts, make sure you have Python installed:
 
 ## Clone the repository:
 
-git clone https://github.com/awais922609/Python_Hacking.git
+git clone https://github.com/awais922609/Python_Hacking
+
 cd Python_Hacking
 
 ## Usage Examples
