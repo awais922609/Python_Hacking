@@ -1,5 +1,5 @@
 ## Python Hacking Tools Repository
-![Theme Image of the repo](https://github.com/awais922609/Defensive-Learning/blob/main/1.png?raw=true)
+![Theme Image of the repo](https://github.com/awais922609/Python_Hacking/blob/main/1.png?raw=true)
 Welcome to the Python Hacking Tools repository – a comprehensive collection of Python scripts tailored for cybersecurity enthusiasts and professionals. This collection is designed for educational and ethical purposes, showcasing practical implementations of Python for hacking and security tasks.
 
 ## Table of Contents
